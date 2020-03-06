@@ -14,5 +14,6 @@ public class Main {
         String testMaster1 = "m1";
 
         int sum = 5;
+        Double result = 0.5;
     }
 }
