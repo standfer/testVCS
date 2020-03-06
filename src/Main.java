@@ -12,5 +12,7 @@ public class Main {
 
     private void testMethod() {
         String testMaster1 = "m1";
+
+        int sum = 5;
     }
 }
