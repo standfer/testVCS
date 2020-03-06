@@ -9,4 +9,8 @@ public class Main {
         //test master2
         //test master3
     }
+
+    private void testMethod() {
+        String testMaster1 = "m1";
+    }
 }
