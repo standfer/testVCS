@@ -17,6 +17,10 @@ public class Main {
         Double result = 0.5;
     }
 
+    private void master() {
+        String test1 = "test1";
+    }
+
     private void branch1() {
         String test1 = "test1";
         String test2 = "test2";
