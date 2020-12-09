@@ -10,15 +10,12 @@ public class Main {
         //test master3
     }
 
-    private void testMethod() {
-        String testMaster1 = "m1";
-
-        int sum = 5;
-        Double result = 0.5;
-    }
-
     private void branch1() {
         String test1 = "test1";
         String test2 = "test2";
+    }
+
+    private void branch2() {
+        String test1 = "test1";
     }
 }
