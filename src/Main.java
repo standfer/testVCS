@@ -16,4 +16,8 @@ public class Main {
         int sum = 5;
         Double result = 0.5;
     }
+
+    private void branch1() {
+        String test1 = "test1";
+    }
 }
