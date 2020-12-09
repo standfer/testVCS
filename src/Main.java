@@ -30,4 +30,8 @@ public class Main {
         String test1 = "test1";
         String test2 = "test2";
     }
+
+    private void branch3() {
+        String test1 = "test1";
+    }
 }
