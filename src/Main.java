@@ -19,6 +19,7 @@ public class Main {
 
     private void master() {
         String test1 = "test1";
+        String test3 = "test3";
     }
 
     private void branch1() {
