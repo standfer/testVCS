@@ -5,10 +5,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("test");
-        //test master
-        //test master2
-        //test master3
-        //1138 test
+        //1178 change1
     }
 
     private void testMethod() {
