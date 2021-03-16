@@ -5,9 +5,9 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("test");
+        //1178 change1
         //1178 change2
-        //1178 change4
-        //1178 change5
+        //1178 change3
     }
 
     private void testMethod() {
