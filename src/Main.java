@@ -5,15 +5,8 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("test");
-        //1178 change4
-        //1178 change5
-        //1178 change6
-        //1178 change2
-        //1178 c//master_2hange3
-
-        //1178 change1
-        //1178 change2
-        //1178 change3
+        //1178 change1ss
+        //1178 2
     }
 
     private void testMethod() {
