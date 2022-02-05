@@ -4,5 +4,6 @@ public class Feature1 {
 
     public static void main(String[] args) {
         //feature 1.1
+        //1.2 test
     }
 }
